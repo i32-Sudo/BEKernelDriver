@@ -1,0 +1,258 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dnfki\\Documents\\GitHub\\BEKernelDriver\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4C4C54E5-C199-4146-B5D7-FDDC9FE74066}|driver-hyde\\driver-execute.vcxproj|C:\\Users\\dnfki\\Documents\\GitHub\\BEKernelDriver\\driver-hyde\\requests\\write_physical_memory.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4C4C54E5-C199-4146-B5D7-FDDC9FE74066}|driver-hyde\\driver-execute.vcxproj|solutionrelative:driver-hyde\\requests\\write_physical_memory.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C4C54E5-C199-4146-B5D7-FDDC9FE74066}|driver-hyde\\driver-execute.vcxproj|C:\\Users\\dnfki\\Documents\\GitHub\\BEKernelDriver\\driver-hyde\\requests\\virtual_allocate.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4C4C54E5-C199-4146-B5D7-FDDC9FE74066}|driver-hyde\\driver-execute.vcxproj|solutionrelative:driver-hyde\\requests\\virtual_allocate.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C4C54E5-C199-4146-B5D7-FDDC9FE74066}|driver-hyde\\driver-execute.vcxproj|C:\\Users\\dnfki\\Documents\\GitHub\\BEKernelDriver\\driver-hyde\\requests\\signature_scanner.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4C4C54E5-C199-4146-B5D7-FDDC9FE74066}|driver-hyde\\driver-execute.vcxproj|solutionrelative:driver-hyde\\requests\\signature_scanner.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C4C54E5-C199-4146-B5D7-FDDC9FE74066}|driver-hyde\\driver-execute.vcxproj|C:\\Users\\dnfki\\Documents\\GitHub\\BEKernelDriver\\driver-hyde\\requests\\read_physical_memory.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4C4C54E5-C199-4146-B5D7-FDDC9FE74066}|driver-hyde\\driver-execute.vcxproj|solutionrelative:driver-hyde\\requests\\read_physical_memory.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C4C54E5-C199-4146-B5D7-FDDC9FE74066}|driver-hyde\\driver-execute.vcxproj|C:\\Users\\dnfki\\Documents\\GitHub\\BEKernelDriver\\driver-hyde\\requests\\get_module_base.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4C4C54E5-C199-4146-B5D7-FDDC9FE74066}|driver-hyde\\driver-execute.vcxproj|solutionrelative:driver-hyde\\requests\\get_module_base.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C4C54E5-C199-4146-B5D7-FDDC9FE74066}|driver-hyde\\driver-execute.vcxproj|C:\\Users\\dnfki\\Documents\\GitHub\\BEKernelDriver\\driver-hyde\\kernel\\structures.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4C4C54E5-C199-4146-B5D7-FDDC9FE74066}|driver-hyde\\driver-execute.vcxproj|solutionrelative:driver-hyde\\kernel\\structures.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C4C54E5-C199-4146-B5D7-FDDC9FE74066}|driver-hyde\\driver-execute.vcxproj|C:\\Users\\dnfki\\Documents\\GitHub\\BEKernelDriver\\driver-hyde\\kernel\\struct.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4C4C54E5-C199-4146-B5D7-FDDC9FE74066}|driver-hyde\\driver-execute.vcxproj|solutionrelative:driver-hyde\\kernel\\struct.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C4C54E5-C199-4146-B5D7-FDDC9FE74066}|driver-hyde\\driver-execute.vcxproj|C:\\Users\\dnfki\\Documents\\GitHub\\BEKernelDriver\\driver-hyde\\impl\\scanner.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4C4C54E5-C199-4146-B5D7-FDDC9FE74066}|driver-hyde\\driver-execute.vcxproj|solutionrelative:driver-hyde\\impl\\scanner.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C4C54E5-C199-4146-B5D7-FDDC9FE74066}|driver-hyde\\driver-execute.vcxproj|C:\\Users\\dnfki\\Documents\\GitHub\\BEKernelDriver\\driver-hyde\\impl\\modules.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4C4C54E5-C199-4146-B5D7-FDDC9FE74066}|driver-hyde\\driver-execute.vcxproj|solutionrelative:driver-hyde\\impl\\modules.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C4C54E5-C199-4146-B5D7-FDDC9FE74066}|driver-hyde\\driver-execute.vcxproj|C:\\Users\\dnfki\\Documents\\GitHub\\BEKernelDriver\\driver-hyde\\impl\\invoked.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4C4C54E5-C199-4146-B5D7-FDDC9FE74066}|driver-hyde\\driver-execute.vcxproj|solutionrelative:driver-hyde\\impl\\invoked.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C4C54E5-C199-4146-B5D7-FDDC9FE74066}|driver-hyde\\driver-execute.vcxproj|C:\\Users\\dnfki\\Documents\\GitHub\\BEKernelDriver\\driver-hyde\\impl\\imports.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4C4C54E5-C199-4146-B5D7-FDDC9FE74066}|driver-hyde\\driver-execute.vcxproj|solutionrelative:driver-hyde\\impl\\imports.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C4C54E5-C199-4146-B5D7-FDDC9FE74066}|driver-hyde\\driver-execute.vcxproj|C:\\Users\\dnfki\\Documents\\GitHub\\BEKernelDriver\\driver-hyde\\impl\\crt.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4C4C54E5-C199-4146-B5D7-FDDC9FE74066}|driver-hyde\\driver-execute.vcxproj|solutionrelative:driver-hyde\\impl\\crt.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C4C54E5-C199-4146-B5D7-FDDC9FE74066}|driver-hyde\\driver-execute.vcxproj|C:\\Users\\dnfki\\Documents\\GitHub\\BEKernelDriver\\driver-hyde\\clean\\clean.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4C4C54E5-C199-4146-B5D7-FDDC9FE74066}|driver-hyde\\driver-execute.vcxproj|solutionrelative:driver-hyde\\clean\\clean.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C4C54E5-C199-4146-B5D7-FDDC9FE74066}|driver-hyde\\driver-execute.vcxproj|C:\\Users\\dnfki\\Documents\\GitHub\\BEKernelDriver\\driver-hyde\\entry\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4C4C54E5-C199-4146-B5D7-FDDC9FE74066}|driver-hyde\\driver-execute.vcxproj|solutionrelative:driver-hyde\\entry\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "write_physical_memory.cpp",
+              "DocumentMoniker": "C:\\Users\\dnfki\\Documents\\GitHub\\BEKernelDriver\\driver-hyde\\requests\\write_physical_memory.cpp",
+              "RelativeDocumentMoniker": "driver-hyde\\requests\\write_physical_memory.cpp",
+              "ToolTip": "C:\\Users\\dnfki\\Documents\\GitHub\\BEKernelDriver\\driver-hyde\\requests\\write_physical_memory.cpp",
+              "RelativeToolTip": "driver-hyde\\requests\\write_physical_memory.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-07-24T04:44:17.131Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "virtual_allocate.cpp",
+              "DocumentMoniker": "C:\\Users\\dnfki\\Documents\\GitHub\\BEKernelDriver\\driver-hyde\\requests\\virtual_allocate.cpp",
+              "RelativeDocumentMoniker": "driver-hyde\\requests\\virtual_allocate.cpp",
+              "ToolTip": "C:\\Users\\dnfki\\Documents\\GitHub\\BEKernelDriver\\driver-hyde\\requests\\virtual_allocate.cpp",
+              "RelativeToolTip": "driver-hyde\\requests\\virtual_allocate.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-07-24T04:44:16.559Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "signature_scanner.cpp",
+              "DocumentMoniker": "C:\\Users\\dnfki\\Documents\\GitHub\\BEKernelDriver\\driver-hyde\\requests\\signature_scanner.cpp",
+              "RelativeDocumentMoniker": "driver-hyde\\requests\\signature_scanner.cpp",
+              "ToolTip": "C:\\Users\\dnfki\\Documents\\GitHub\\BEKernelDriver\\driver-hyde\\requests\\signature_scanner.cpp",
+              "RelativeToolTip": "driver-hyde\\requests\\signature_scanner.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-07-24T04:44:16.012Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "read_physical_memory.cpp",
+              "DocumentMoniker": "C:\\Users\\dnfki\\Documents\\GitHub\\BEKernelDriver\\driver-hyde\\requests\\read_physical_memory.cpp",
+              "RelativeDocumentMoniker": "driver-hyde\\requests\\read_physical_memory.cpp",
+              "ToolTip": "C:\\Users\\dnfki\\Documents\\GitHub\\BEKernelDriver\\driver-hyde\\requests\\read_physical_memory.cpp",
+              "RelativeToolTip": "driver-hyde\\requests\\read_physical_memory.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-07-24T04:44:15.548Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "get_module_base.cpp",
+              "DocumentMoniker": "C:\\Users\\dnfki\\Documents\\GitHub\\BEKernelDriver\\driver-hyde\\requests\\get_module_base.cpp",
+              "RelativeDocumentMoniker": "driver-hyde\\requests\\get_module_base.cpp",
+              "ToolTip": "C:\\Users\\dnfki\\Documents\\GitHub\\BEKernelDriver\\driver-hyde\\requests\\get_module_base.cpp",
+              "RelativeToolTip": "driver-hyde\\requests\\get_module_base.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-07-24T04:44:15.096Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "structures.hpp",
+              "DocumentMoniker": "C:\\Users\\dnfki\\Documents\\GitHub\\BEKernelDriver\\driver-hyde\\kernel\\structures.hpp",
+              "RelativeDocumentMoniker": "driver-hyde\\kernel\\structures.hpp",
+              "ToolTip": "C:\\Users\\dnfki\\Documents\\GitHub\\BEKernelDriver\\driver-hyde\\kernel\\structures.hpp",
+              "RelativeToolTip": "driver-hyde\\kernel\\structures.hpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-07-24T04:43:57.218Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "struct.h",
+              "DocumentMoniker": "C:\\Users\\dnfki\\Documents\\GitHub\\BEKernelDriver\\driver-hyde\\kernel\\struct.h",
+              "RelativeDocumentMoniker": "driver-hyde\\kernel\\struct.h",
+              "ToolTip": "C:\\Users\\dnfki\\Documents\\GitHub\\BEKernelDriver\\driver-hyde\\kernel\\struct.h",
+              "RelativeToolTip": "driver-hyde\\kernel\\struct.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-07-24T04:43:56.422Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "scanner.h",
+              "DocumentMoniker": "C:\\Users\\dnfki\\Documents\\GitHub\\BEKernelDriver\\driver-hyde\\impl\\scanner.h",
+              "RelativeDocumentMoniker": "driver-hyde\\impl\\scanner.h",
+              "ToolTip": "C:\\Users\\dnfki\\Documents\\GitHub\\BEKernelDriver\\driver-hyde\\impl\\scanner.h",
+              "RelativeToolTip": "driver-hyde\\impl\\scanner.h",
+              "ViewState": "AQIAAD8AAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-07-24T04:43:51.342Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "modules.h",
+              "DocumentMoniker": "C:\\Users\\dnfki\\Documents\\GitHub\\BEKernelDriver\\driver-hyde\\impl\\modules.h",
+              "RelativeDocumentMoniker": "driver-hyde\\impl\\modules.h",
+              "ToolTip": "C:\\Users\\dnfki\\Documents\\GitHub\\BEKernelDriver\\driver-hyde\\impl\\modules.h",
+              "RelativeToolTip": "driver-hyde\\impl\\modules.h",
+              "ViewState": "AQIAANcBAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-07-24T04:43:46.646Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "invoked.h",
+              "DocumentMoniker": "C:\\Users\\dnfki\\Documents\\GitHub\\BEKernelDriver\\driver-hyde\\impl\\invoked.h",
+              "RelativeDocumentMoniker": "driver-hyde\\impl\\invoked.h",
+              "ToolTip": "C:\\Users\\dnfki\\Documents\\GitHub\\BEKernelDriver\\driver-hyde\\impl\\invoked.h",
+              "RelativeToolTip": "driver-hyde\\impl\\invoked.h",
+              "ViewState": "AQIAAHgAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-07-24T04:43:44.426Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "imports.h",
+              "DocumentMoniker": "C:\\Users\\dnfki\\Documents\\GitHub\\BEKernelDriver\\driver-hyde\\impl\\imports.h",
+              "RelativeDocumentMoniker": "driver-hyde\\impl\\imports.h",
+              "ToolTip": "C:\\Users\\dnfki\\Documents\\GitHub\\BEKernelDriver\\driver-hyde\\impl\\imports.h",
+              "RelativeToolTip": "driver-hyde\\impl\\imports.h",
+              "ViewState": "AQIAAEQBAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-07-24T04:43:40.871Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "crt.h",
+              "DocumentMoniker": "C:\\Users\\dnfki\\Documents\\GitHub\\BEKernelDriver\\driver-hyde\\impl\\crt.h",
+              "RelativeDocumentMoniker": "driver-hyde\\impl\\crt.h",
+              "ToolTip": "C:\\Users\\dnfki\\Documents\\GitHub\\BEKernelDriver\\driver-hyde\\impl\\crt.h",
+              "RelativeToolTip": "driver-hyde\\impl\\crt.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-07-24T04:43:39.787Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\dnfki\\Documents\\GitHub\\BEKernelDriver\\driver-hyde\\entry\\main.cpp",
+              "RelativeDocumentMoniker": "driver-hyde\\entry\\main.cpp",
+              "ToolTip": "C:\\Users\\dnfki\\Documents\\GitHub\\BEKernelDriver\\driver-hyde\\entry\\main.cpp",
+              "RelativeToolTip": "driver-hyde\\entry\\main.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-07-24T04:43:28.743Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "clean.hpp",
+              "DocumentMoniker": "C:\\Users\\dnfki\\Documents\\GitHub\\BEKernelDriver\\driver-hyde\\clean\\clean.hpp",
+              "RelativeDocumentMoniker": "driver-hyde\\clean\\clean.hpp",
+              "ToolTip": "C:\\Users\\dnfki\\Documents\\GitHub\\BEKernelDriver\\driver-hyde\\clean\\clean.hpp",
+              "RelativeToolTip": "driver-hyde\\clean\\clean.hpp",
+              "ViewState": "AQIAAFkBAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-07-24T04:43:25.46Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
