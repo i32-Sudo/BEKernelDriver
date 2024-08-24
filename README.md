@@ -7,4 +7,4 @@ https://github.com/i32-Sudo/BEKernelDriverUpdated
 我开发的一个未被检测到的BE内核驱动，发布后可能会被检测到，但可以很容易地使其未被检测到。这也可以用于EAC，但你需要使用不同的映射器，因为EAC会扫描GDRV页，你还需要添加一个CR3绕过。
 
 # Contact
-If you want an actually good Kernel Level Cheat that is UD My discord is -> `_ambitza`
+If you want to contact me in regards of my work or projects my discord is -> `_ambitza`, Please do not message me for Issues or Learning/Studying I am not a teacher.
